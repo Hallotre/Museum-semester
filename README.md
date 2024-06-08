@@ -6,11 +6,8 @@ Welcome to the Museum Semester project! This repository contains the code and re
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 
@@ -25,7 +22,7 @@ The Museum Semester project aims to provide interactive and educational experien
 - **Search Functionality:** Easily find exhibits and artifacts within the museum.
 
 
-## License
+# License
 This project is licensed under the MIT License.
 
 
