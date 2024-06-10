@@ -18,9 +18,6 @@ The Museum Semester project aims to provide interactive and educational experien
 - **Virtual Tours:** Explore museum exhibits from the comfort of your home.
 - **Interactive Exhibits:** Engage with digital versions of museum artifacts.
 - **Educational Content:** Access detailed information and multimedia about exhibits.
-- **User Accounts:** Create and manage user profiles to personalize the experience.
-- **Search Functionality:** Easily find exhibits and artifacts within the museum.
-
 
 # License
 This project is licensed under the MIT License.
